@@ -1,0 +1,29 @@
+.table-container {
+    background-color: transparent;
+    border: 1px solid #444;
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    text-align: left;
+    padding:5px;
+}
+tr{
+    border-bottom:1px solid #444;
+}
+.table-container thead tr th{
+ color:#fff;
+ font-size: 12px;
+}
+.table-container tbody td{
+    height: 35px;
+}
+tbody tr:nth-child(even){
+    color:rgb(103, 236, 103);
+    font-size: 12px;
+}
+tbody tr:nth-child(odd){
+    color:orangered;
+    font-size: 12px;
+}
+

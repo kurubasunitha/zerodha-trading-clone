@@ -1,0 +1,71 @@
+.dashboard-container {
+    display: flex;
+    gap: 1px;
+    background-color: #000;
+    padding: 2px 35px;
+    min-height: 100vh;
+
+}
+
+.dashboard-header-container {
+    border-bottom: 1px solid #444;
+    padding-bottom: 15px;
+
+}
+
+
+.dashboard-section {
+    background: rgb(38, 37, 37);
+    width: 95%;
+    padding: 0px 10px;
+}
+.equity-table {
+    display: flex;
+    width: 50%;
+}
+.equity-commodity-con{
+    display: flex;
+    gap: 25px;
+    margin: 40px 0px;
+}
+.commodity-header{
+     display: flex;
+    gap: 25px;
+}
+
+.equity,.commodity {
+    width: 50%;
+    color: #fff;
+}
+.equity-table .bold-text{
+    font-size: 28px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.equity-table p{
+    color: #fff;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+span {
+ font-size: 15px;
+}
+.middile-portion {
+    margin: 30px 0px;
+    border-bottom: 1px solid #444;
+}
+.view-statement {
+    color: rgb(64, 64, 235);
+}
+.margin-available-container {
+    border-right: 1px solid #444;
+    padding-right: 80px;
+}
+.margin-available-con{
+    padding-left: 80px;
+}
+
+.exicuted-orders{
+    display: flex;
+    color:#fff;
+}
