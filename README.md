@@ -1,4 +1,5 @@
 # zerodha-trading-clone
+
 Zerodha Clone – Frontend UI
 
 A responsive and visually polished clone of the Zerodha trading platform built with React, Redux Toolkit, Redux Thunk, Material UI, Bootstrap, and React Router DOM. This project focuses on recreating the user interface to closely resemble the real-world Zerodha experience, with an emphasis on design consistency, state management, and seamless navigation.
@@ -20,9 +21,9 @@ Effective use of props, state, and reusable components
 🔐 Demo Credentials
 Use the following credentials to explore the application:
 
-Username: venkysri
+Username: sunitha
 
-Password: venky@123
+Password: sunitha@123
 (Demo credentials for UI testing only)
 
 🎯 Project Purpose
